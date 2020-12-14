@@ -1,0 +1,58 @@
+body {
+    
+    padding:0;
+    margin: 10px;
+    text-align: center;
+    background: #c674f2;
+    color: black;
+    font-size: 100%;
+    
+}
+
+header {
+    
+    display: flex;
+    align-content: space-between;
+}
+
+
+h2 {
+    
+    font-size: 150%;
+     flex: 2;
+    
+}
+
+button {
+    
+    border: 6px solid red;
+    border-radius: 16px;
+    padding: 20px;
+    font-weight: bold;
+    background: white;
+    margin-right: 100px;
+    flex: 1;
+    
+}
+
+#myform {
+    
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
